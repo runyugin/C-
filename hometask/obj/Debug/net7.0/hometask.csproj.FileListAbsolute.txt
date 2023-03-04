@@ -1,0 +1,15 @@
+/Users/krasnoperov/GeekBrains/c#/hometask/bin/Debug/net7.0/hometask
+/Users/krasnoperov/GeekBrains/c#/hometask/bin/Debug/net7.0/hometask.deps.json
+/Users/krasnoperov/GeekBrains/c#/hometask/bin/Debug/net7.0/hometask.runtimeconfig.json
+/Users/krasnoperov/GeekBrains/c#/hometask/bin/Debug/net7.0/hometask.dll
+/Users/krasnoperov/GeekBrains/c#/hometask/bin/Debug/net7.0/hometask.pdb
+/Users/krasnoperov/GeekBrains/c#/hometask/obj/Debug/net7.0/hometask.csproj.AssemblyReference.cache
+/Users/krasnoperov/GeekBrains/c#/hometask/obj/Debug/net7.0/hometask.GeneratedMSBuildEditorConfig.editorconfig
+/Users/krasnoperov/GeekBrains/c#/hometask/obj/Debug/net7.0/hometask.AssemblyInfoInputs.cache
+/Users/krasnoperov/GeekBrains/c#/hometask/obj/Debug/net7.0/hometask.AssemblyInfo.cs
+/Users/krasnoperov/GeekBrains/c#/hometask/obj/Debug/net7.0/hometask.csproj.CoreCompileInputs.cache
+/Users/krasnoperov/GeekBrains/c#/hometask/obj/Debug/net7.0/hometask.dll
+/Users/krasnoperov/GeekBrains/c#/hometask/obj/Debug/net7.0/refint/hometask.dll
+/Users/krasnoperov/GeekBrains/c#/hometask/obj/Debug/net7.0/hometask.pdb
+/Users/krasnoperov/GeekBrains/c#/hometask/obj/Debug/net7.0/hometask.genruntimeconfig.cache
+/Users/krasnoperov/GeekBrains/c#/hometask/obj/Debug/net7.0/ref/hometask.dll
